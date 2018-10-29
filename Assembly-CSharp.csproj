@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Grid.cs" />
     <Compile Include="Assets\Scripts\MathGrid.cs" />
+    <Compile Include="Assets\Scripts\OperationGrid.cs" />
     <Compile Include="Assets\Scripts\Shape.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Reference Include="UnityEditor.StandardEvents">
