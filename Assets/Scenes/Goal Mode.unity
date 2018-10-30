@@ -154,13 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shapes:
-  - {fileID: 1201619944783874, guid: a8461da33b00d4101be702efc576c59e, type: 2}
-  - {fileID: 1051079601178130, guid: 3b00d794536f0461bb458b01fb99b436, type: 2}
-  - {fileID: 1329022431354282, guid: a4b1010b32c474909a3427b5eb5a28ef, type: 2}
-  - {fileID: 1893016690533464, guid: 32378c5adc27b455aa546df7d9ab3d37, type: 2}
-  - {fileID: 1886125024841596, guid: 734157f941e9e4eba909a639b69434c2, type: 2}
-  - {fileID: 1727496172892000, guid: b81abb6692e61467284ae3f218563438, type: 2}
-  - {fileID: 1588688395477634, guid: 8fdb48ad8076649b0977e7f8c9a653ee, type: 2}
+  - {fileID: 1706547526048488, guid: 23a2c58d3cc5d42158d85875fbf91ed9, type: 2}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
